@@ -1,0 +1,18 @@
+*{
+    color: #FFF;
+}
+/*.bg{background: url('images/img3.jpg'); height: 100vh;}*/
+
+.form-conatiner{border: 0px solid #fff; padding: 50px 60px; margin-top: 20vh;
+    box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+
+}
+.bg{ 
+    background: url(images/img1.jpg) no-repeat center center fixed ; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
